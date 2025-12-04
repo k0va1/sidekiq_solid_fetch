@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sidekiq_solid_fetch (0.1.0)
+    sidekiq_solid_fetch (0.1.1)
       sidekiq (>= 7.0)
 
 GEM
